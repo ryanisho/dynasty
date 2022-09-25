@@ -34,7 +34,7 @@ N/A
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [javascript-documentation] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [javascript-documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [gsap](https://cdnjs.com/about)
 * [csstailwind](https://tailwindcss.com/docs/installation)
 * [chriscourses](https://www.youtube.com/watch?v=vyqbNFMDRGQ)
